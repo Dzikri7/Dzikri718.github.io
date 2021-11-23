@@ -1,0 +1,132 @@
+body {
+    min-height: 2000px;
+    background-color: mediumaquamarine;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.fab {
+    padding: 30px;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+}
+  
+.fa:hover {
+    opacity: 0.7;
+}
+  
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+
+.fa-instagram {
+    background: #E1306C;
+    color: white;
+}
+.fa-whatsapp {
+    background: #25d366;
+    color: white;
+}
+.fa-telegram {
+    background: #0088cc;
+    color: white;
+}
+.fa-tiktok {
+    background: #010101;
+    color: white;
+}
+.fa-line {
+    background: #1ed760;
+    color: white;
+}
+.fa-facebook-messenger {
+    background: white;
+    color: #E1306C rgb(140, 177, 212);
+}
+  
+.footer {
+    background: transparent; 
+    color: darkslategrey; 
+    text-align: center; 
+    padding-bottom: 10px;
+    margin-top: 100px;
+}
+
+/* jumbotron item */
+.jumbotron {
+    background-image: url(img/p2.jpg);
+    background-size: cover;
+    height: 870px;
+    text-align: center;
+    margin-top: -50px;
+}
+.jumbotron .display-3 {
+    color: darkkhaki;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.jumbotron .display-4 {
+    color: steelblue;
+    margin-top: 50px;
+}
+.jumbotron p {
+    color: rgb(140, 177, 212);
+    font-size: 25px;
+    font-weight: bold;
+}
+.jumbotron hr {
+    border-color: aquamarine;
+    width: 70px;
+    border-width: 3px;
+}
+.jumbotron .btn {
+    background-color: aquamarine;
+    border: none;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-top: 15px;
+}
+
+/* carousel item  */
+.carousel-item {
+    height: 870px;
+}
+.carousel-item img {
+    margin-top: 10px;
+}
+.carousel-item .display-4 {
+    color: steelblue;
+    margin-top: -540px;
+}
+.carousel-item hr {
+    border-color: aquamarine;
+    width: 70px;
+    border-width: 3px;
+}
+.carousel-item .btn {
+    background-color: aquamarine;
+    border: none;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-top: 25px;
+}
+
